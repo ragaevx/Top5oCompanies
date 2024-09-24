@@ -1,4 +1,4 @@
-# Top5oCompanies
+# Top50Companies
 Top 50 Companies data visualization using Power BI
 
 # Introduction
